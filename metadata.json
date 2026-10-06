@@ -1,0 +1,8 @@
+{
+  "name": "Remix TRUNG TÂM DẠY THÊM PHAN NGUYÊN",
+  "description": "Nền tảng quản lý chuyên nghiệp cho trung tâm bồi dưỡng văn hóa, luyện thi đa môn: xếp lịch, điểm danh, sổ điểm, học phí QR và cổng phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
